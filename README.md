@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 I'm currently studying @masai full stack web development(full-time)<br>And, I want to explore the whole world without going outside from my house. 
-<h3>LOOK AT <a href="manjeetgodara.github.io">MY PORTFOLIO</a></h3>
+<h3>LOOK AT <a href="https://manjeetgodara.github.io/">MY PORTFOLIO</a></h3>
 <h3>LOOK AT <a href="https://drive.google.com/file/d/1NVxzOkWlptoFCvVZ1tF5xJh8iag6QTAf/view?usp=share_link">MY RESUME</a></h3>
 
 ## 🌐 Socials:
