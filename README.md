@@ -1,5 +1,9 @@
-<h1 style="text-align:center">Hi,My name is Manjeet</h1><br>
+<h1 style="text-align:center">Hi,My name is Manjeet</h1>
 <h3>I'm Full Stack Developer from India</h3>
+<div>
+<img width="700px" src="https://www.shutterstock.com/image-vector/back-end-development-banner-concept-260nw-422011339.jpg" alt="banner" />
+  </div>
+
 
 # 💫 About Me:
 I'm currently studying @masai full stack web development(full-time)<br>And, I want to explore the whole world without going outside from my house. 
