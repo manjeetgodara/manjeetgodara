@@ -20,8 +20,8 @@ I'm currently studying @masai full stack web development(full-time)<br>And, I wa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manjeetgodara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetgodara&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Mechguy369)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Mechguy369)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manjeetgodara&icon=0&color=0)](https://visitcount.itsvg.in)
