@@ -7,8 +7,8 @@
 
 # 💫 About Me:
 I'm currently studying @masai full stack web development(full-time)<br>And, I want to explore the whole world without going outside from my house. 
-<h3>LOOK AT <a href="https://manjeetgodara.github.io/">MY PORTFOLIO</a></h3>
-<h3>LOOK AT <a href="https://drive.google.com/file/d/1eHJJwqF6on29PEjoGpFzp-23r3FfitUi/view?usp=share_link">MY RESUME</a></h3>
+<h3>LOOK AT <a href="https://manjeetgodara.github.io/" target="_blank">MY PORTFOLIO</a></h3>
+<h3>LOOK AT <a href="https://drive.google.com/file/d/1eHJJwqF6on29PEjoGpFzp-23r3FfitUi/view?usp=share_link" target="_blank">MY RESUME</a></h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/godara_manjeet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manjeet-444a611a0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mechguy369) 
