@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://manjeetgodara.github.io/](https://manjeetgodara.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://manjeetgodara.github.io/">PortFolio</a>
 
-- 💬 Ask me about **HTML,CSS , JavaScript and JAVA.**
+- 💬 Ask me about **HTML,CSS , JavaScript , JAVA , SpringBoot and Angular etc.**
 
 - 📫 How to reach me **godaramanjeet293@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NVxzOkWlptoFCvVZ1tF5xJh8iag6QTAf/view?usp=share_link](https://drive.google.com/file/d/1NVxzOkWlptoFCvVZ1tF5xJh8iag6QTAf/view?usp=share_link)
+
 
 - ⚡ Fun fact **I want to explore everyplace but I don't want to go outside.**
 
