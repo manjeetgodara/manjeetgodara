@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at <a href="https://manjeetgodara.github.io/">PortFolio</a>
-
+- 💬 Check out my <a href="https://drive.google.com/file/d/1Xv6JH51EJ_mXVHlkhtJyUGd8iVo6kUdv/view">Resume</a>
 - 💬 Ask me about **HTML,CSS , JavaScript , JAVA , SpringBoot and Angular etc.**
 
 - 📫 How to reach me **godaramanjeet293@gmail.com**
