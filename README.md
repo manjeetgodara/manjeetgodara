@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjeet</h1>
-<<h3 align="center">A passionate Full Stack Developer from India</h3>
+<<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div>
   <img src="https://marketplace.canva.com/EAE2cQaUHVA/1/0/1600w/canva-black-minimal-motivation-quote-linkedin-banner-HoRi-2buBWk.jpg">
 </div>  
