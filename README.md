@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Manjeet</h1>
 <h3 align="center">Backend Developer with 1 year of experience in Python, Django REST Framework, Java, and Spring Boot, skilled in MySQL and PostgreSQL.</h3>
 <div>
-  <img  style="height: 50%;" src="https://camo.githubusercontent.com/4d6fa8bd308772d0ac584423a5c52507d4c18d9964c8a12f622632c4893be038/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
+  <img  style="width: 100% ; height: 400px;" src="https://camo.githubusercontent.com/4d6fa8bd308772d0ac584423a5c52507d4c18d9964c8a12f622632c4893be038/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
 </div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjeetgodara&label=Profile%20views&color=0e75b6&style=flat" alt="manjeetgodara" /> </p>
@@ -15,13 +15,14 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://manjeetgodara.github.io/](https://manjeetgodara.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://manjeetgodara.github.io/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **Python, Django Rest Framework, JAVA, Spring Boot etc**
 
 - 📫 How to reach me **godaramanjeet293@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13jdY-yWNAZiY7rpbZjUTm8_OXbCB2PcL/view?usp=sharing](https://drive.google.com/file/d/13jdY-yWNAZiY7rpbZjUTm8_OXbCB2PcL/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13jdY-yWNAZiY7rpbZjUTm8_OXbCB2PcL/view?usp=sharing" target="_blank">Resume</a>
+
 
 - ⚡ Fun fact **I want to explore every place but I don't want to go outside.**
 
