@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Manjeet</h1>
-<h3 align="center">Backend Developer with 2 year of experience.</h3>
+<h3 align="center">Backend Developer with more than 2 year of experience.</h3>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjeetgodara&label=Profile%20views&color=0e75b6&style=flat" alt="manjeetgodara" /> </p>
 </div>  
