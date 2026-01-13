@@ -8,34 +8,52 @@
 ---
 
 ```bash
-$ who am i
-> Manjeet 
-> Software Developer
-> Bridging the gap between pixel-perfect design and clean, functional code.
+$ whoami
+> Manjeet
+> Software Engineer | Backend & AI Systems Developer
+> Building scalable systems, intelligent APIs, and AI-powered products.
 
 $ cat /bio.txt
-> 🔭 I'm passionate about creating intuitive, beautiful, and accessible user experiences.
-> 🌱 I'm currently mastering  GSAP Animations & Framer Motion.
-> 🎯 My goal is to build products that are not just functional, but delightful to use.
-> 💡 Ask me about UI/UX, React, or my design thinking.
+> 🔭 Backend Developer with ~2 years of experience in building high-performance, scalable systems.
+> 🤖 Actively working with Generative AI: LLMs, RAG pipelines, vector databases, and agent-based architectures.
+> 🚀 Passionate about solving real-world problems using clean architecture, optimized APIs, and AI-driven workflows.
+> 🎯 Goal: Build intelligent products that are fast, reliable, and production-ready.
+> 💡 Ask me about Backend APIs, System Optimization, Generative AI, or RAG Systems.
 
 $ ls /tech-stack
 
-> design/
-  Figma.fig           Webflow            Framer            Canva
-  
-> frontend/
-  React.js           Next.js            TypeScript.ts      Tailwind.css    *framer-motion*  
-  *GSAP.js*          HTML5.html         CSS3.css           JavaScript.js    MagicUI
-  
-> backend/
-  Node.js          Expres.js            Redis              Docker           MongoDB
-         
-> tools/
-  Git.sh             VSCode.exe         Notion.md          Jira.pm
+> languages/
+  Python.py        Java.java        JavaScript.js        
 
+> backend/
+  Django-REST      Spring-Boot      Docker               AWS-EC2 
+  Redis            Celery           Cron-Jobs            REST-APIs  
+  PostgreSQL       MySQL             MongoDB              Docker  
+ 
+
+> ai-ml/
+  LLMs             RAG-Pipelines     LangChain            LangGraph  
+  Vector-DBs/
+    ChromaDB       FAISS             Pinecone             Weaviate
+  Chunking/
+    Semantic       Recursive
+  AI-Agents        Prompt-Engineering
+
+> frontend/ 
+  HTML5.html       CSS3.css          JavaScript.js 
+
+> tools/
+  Git.sh           GitHub            VSCode.exe  
+  Jira.pm          Notion.md         Postman
 
 $ ./show-stats.sh
+> Experience: 2+ Years
+> Users Migrated: 100,000+
+> API Performance Boost: 95%
+> Notification Time Reduced: Hours → Minutes
+> AI Systems: RAG, Vector Search, Agents, Chatbots
+> Status: Shipping production-ready systems 🚀
+
 > Fetching data...
 ```
 <div align=center>
