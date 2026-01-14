@@ -13,6 +13,7 @@ $ whoami
 > Software Engineer | Backend & AI Systems Developer
 > Building scalable systems, intelligent APIs, and AI-powered products.
 
+
 $ cat /bio.txt
 > 🔭 Backend Developer with ~2 years of experience in building high-performance, scalable systems.
 > 🤖 Actively working with Generative AI: LLMs, RAG pipelines, vector databases, and agent-based architectures.
@@ -20,19 +21,18 @@ $ cat /bio.txt
 > 🎯 Goal: Build intelligent products that are fast, reliable, and production-ready.
 > 💡 Ask me about Backend APIs, System Optimization, Generative AI, or RAG Systems.
 
-$ ls /tech-stack
 
+$ ls /tech-stack
 > languages/
-  Python.py        Java.java        JavaScript.js        
+    Python.py        Java.java        JavaScript.js        
 
 > backend/
-  Django-REST      Spring-Boot      Docker               AWS-EC2 
-  Redis            Celery           Cron-Jobs            REST-APIs  
-  PostgreSQL       MySQL             MongoDB              Docker  
+    Django-REST      Spring-Boot      Docker               AWS-EC2 
+    Redis            Celery           Cron-Jobs            REST-APIs  
+    PostgreSQL       MySQL             MongoDB              Docker  
  
-
 > ai-ml/
-  LLMs             RAG-Pipelines     LangChain            LangGraph  
+     LLMs             RAG-Pipelines     LangChain            LangGraph  
   Vector-DBs/
     ChromaDB       FAISS             Pinecone             Weaviate
   Chunking/
@@ -40,19 +40,20 @@ $ ls /tech-stack
   AI-Agents        Prompt-Engineering
 
 > frontend/ 
-  HTML5.html       CSS3.css          JavaScript.js 
+    HTML5.html       CSS3.css          JavaScript.js 
 
 > tools/
-  Git.sh           GitHub            VSCode.exe  
-  Jira.pm          Notion.md         Postman
+    Git.sh           GitHub            VSCode.exe  
+    Jira.pm          Notion.md         Postman
+
 
 $ ./show-stats.sh
-> Experience: 2+ Years
-> Users Migrated: 100,000+
-> API Performance Boost: 95%
-> Notification Time Reduced: Hours → Minutes
-> AI Systems: RAG, Vector Search, Agents, Chatbots
-> Status: Shipping production-ready systems 🚀
+> Experience            : 2+ Years
+> Users Migrated        : 100,000+
+> API Performance Gain  : 95%
+> Latency Reduction     : Hours → Minutes
+> AI Systems Built      : RAG, Vector Search, Agents, Chatbots
+> Status                : Actively shipping production systems 🚀
 
 > Fetching data...
 ```
